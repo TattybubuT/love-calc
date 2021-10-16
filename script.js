@@ -10,7 +10,7 @@ if (loveScore >= 70) {
   );
 } else if (loveScore < 70 && loveScore > 49) {
   document.write(
-    `<h2> ${yourName} + ${yourPartnersName}</h2> <br><h3>Your love score is ${loveScore}% <br>You are good friends👫👩‍❤️</h3>`
+    `<h2> ${yourName} + ${yourPartnersName}</h2> <br><h3>Your love score is ${loveScore}% <br>You are good friends👫</h3>`
   );
 } else {
   document.write(
