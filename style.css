@@ -1,0 +1,16 @@
+body {
+    margin:0;
+    padding:0;
+    background:#262626;
+    font-family:cursive;
+}
+h1{
+    text-align: center;
+    color: pink;
+
+}
+hr{
+    height: 10px;
+    color: pink;
+}
+
